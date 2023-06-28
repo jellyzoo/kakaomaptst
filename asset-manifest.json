@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kakaomaptst/static/css/main.073c9b0a.css",
+    "main.js": "/kakaomaptst/static/js/main.1abf80c2.js",
+    "static/js/787.f9f10743.chunk.js": "/kakaomaptst/static/js/787.f9f10743.chunk.js",
+    "index.html": "/kakaomaptst/index.html",
+    "main.073c9b0a.css.map": "/kakaomaptst/static/css/main.073c9b0a.css.map",
+    "main.1abf80c2.js.map": "/kakaomaptst/static/js/main.1abf80c2.js.map",
+    "787.f9f10743.chunk.js.map": "/kakaomaptst/static/js/787.f9f10743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1abf80c2.js"
+  ]
+}
